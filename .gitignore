@@ -1,0 +1,4 @@
+.env
+
+github_copilot_token/*
+!github_copilot_token/.gitkeep
